@@ -36,3 +36,5 @@ Better Blackboard is a very simple Chrome Extension for the Blackboard website
 
 # Use
 you can press the keys #1-9 to go to the class with that period, or you can just press enter to go to whatever class you are currently in automatically!
+
+## Contact me at depler@nastudents.org if you have questions or feature requests
