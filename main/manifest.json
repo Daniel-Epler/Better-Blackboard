@@ -1,0 +1,20 @@
+{
+    "manifest_version": 3,
+    "name": "Better Blackboard",
+    "description": "_____Some QOL additions for Blackboard_____ ______NOTE: IN DEVELOPMENT, BUGGY______",
+    "version": "1.0",
+    "icons": {
+        "16": "/images/BB-16.png",
+        "48": "/images/BB-48.png",
+        "128": "/images/BB-128.png"
+    },
+    "content_scripts": [{
+        "matches": ["https://northallegheny.blackboard.com/*"],
+        "css": ["main.css"],
+        "js": ["Content.js"]
+    }],
+    "action": {
+        "default_popup": "Popup.html",
+        "default_title": "Better Blackboard"
+    }
+  }

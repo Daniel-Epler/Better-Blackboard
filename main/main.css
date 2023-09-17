@@ -1,0 +1,229 @@
+@import url('https://fonts.googleapis.com/css2?family=Titan+One&display=swap');
+.urlInputter{
+border: none;
+margin: 0;
+padding: 0;
+width: auto;
+overflow: visible;
+
+background: transparent;
+
+/* inherit font & color from ancestor */
+color: inherit;
+font: inherit;
+
+/* Normalize `line-height`. Cannot be changed from `normal` in Firefox 4+. */
+line-height: normal;
+
+/* Corrects font smoothing for webkit */
+-webkit-font-smoothing: inherit;
+-moz-osx-font-smoothing: inherit;
+
+/* Corrects inability to style clickable `input` types in iOS */
+}
+
+/* Remove excess padding and border in Firefox 4+ */
+&::-moz-focus-inner {
+border: 0;
+padding: 0;
+}
+
+/* .bgBanner {
+    background-image: none!important;
+    }
+    
+    .shadow {
+        border-top: 6px solid #202020 !important;
+    }
+    
+    
+    .portlet{
+        border-bottom: 0px!important;
+    }
+    
+    
+    html {
+        background-color: #181818!important;
+    }
+    
+    .portlet {
+        border-bottom: 1px solid!important;
+    }
+    
+    div > ul > li,
+    .actionMenuButton,
+    .menuWrap,
+    #courseMenuPalette,
+    h3,
+    .navPaletteContent,
+    .courseMenu,
+    .paneTabs,
+    .bgBanner,
+    .locationPane,
+    h2.clearfix,
+    .clearfix,
+    head,
+    contentPanel,
+    #contentFrame,
+    #schemePreview,
+    body,
+    .ineditmode,
+    .topFrame,
+    .breadcrumbs,
+    .paneTabs,
+    .paneTabs ul li.active,
+    .paneTabs ul li,
+    .wizardBody,
+    .containerWizard,
+    .contentPane {
+        background-color: #202020 !important;
+        border-radius: 8px!important;
+        border-color: rgba(24,24,24,1)!important;
+        border-width: 3px!important;
+        color: #fff!important;
+    }
+    
+    #contentListItem:_8901063_1:hover {
+    background-color: #101010!important;
+    }
+    
+    .actionBarMicro.clearfix {
+        border-radius: 0px!important;
+    }
+    
+    .container {
+        border-width: 0px!important;
+    }
+    
+    .courseMenu,
+    .navPaletteContent,
+    .menuWrap {
+        background-color: rgba(24,24,24,1)!important;
+    
+    }
+    
+    .portlet .portletList-img > li,
+    .portlet .portletList li {
+        border-top: 1px solid rgba(25,25,25,1)!important;
+    }
+    
+    #courseMenuPalette_contents li {
+        border-radius: 5px!important;
+        border-color: rgba(24,24,24,1)!important;
+    }
+    
+    .navPaletteContent {
+        background-color: #101010;
+    }
+    
+    a,
+    span {
+    color: #ffffff !important;
+    }
+    
+    
+    .contentPaneWide,
+    .tabbedPane,
+    .portal,
+    .contentBox,
+    .container,
+    .column-3,
+    .containerPortal,
+    .locationPane {
+    background-color: #272727 !important;
+    }
+    
+    
+    .pageTitle {
+        border-radius: 8px!important;
+        border-color: rgba(30,30,30,1)!important;
+        border-width: 3px!important;
+        color: #fff!important;
+    }
+    
+    
+    #pageTitleDiv,
+    .contentList>li {
+    border-width: 4px !important;
+    border-radius: 8px !important;
+    border-color: #151515 !important;
+    border-bottom-color: #151515 !important;
+    }
+    
+    
+    .collapsible {
+    border-top: 2px solid #0080FF!important;
+    border-radius: 0px!important;
+    }
+    
+    table.bouncer {
+    border-bottom: 2px solid #0080FF!important;
+    border-radius: 0px!important;
+    }
+    
+    .nav-link {
+    background-color: #0080FF!important;
+    }
+    
+    .nav-link:hover {
+    background-color: #8080FF!important;
+    } */
+    
+
+.directionsCont {
+	z-index: 10000000!important;
+	background-color: #202020!important;
+	position: absolute!important;
+	top: 115px;
+	right: 0!important;
+	border-color: #161616!important;
+	border-width: 5px!important;
+	border-style: solid!important;
+	border-radius: 5px!important;
+	color: #fff!important;
+	display: flex!important;
+	justify-content: center!important;
+	align-items: center!important;
+}
+
+.directions {
+	font-size: 1.2rem!important;
+	font-family: 'Titan One', cursive!important;
+	padding: 10px!important;
+}
+
+@media only screen and (max-width: 1036px) {
+  .directionsCont {
+    top: 44px!important;
+	}
+}
+
+.directionsCont2 {
+	z-index: 10000000!important;
+	background-color: #202020!important;
+	position: absolute!important;
+	bottom: 0px;
+	right: 0!important;
+	border-color: #161616!important;
+	border-width: 5px!important;
+	border-style: solid!important;
+	border-radius: 5px!important;
+	color: #fff!important;
+	display: flex!important;
+	justify-content: center!important;
+	align-items: center!important;
+}
+
+.urlInputter {
+    background-color: #202020;
+    border-color: #161616!important;
+	border-width: 5px!important;
+	border-style: solid!important;
+	border-radius: 5px!important;
+    padding: 3px;
+    margin: 3px;
+}
+
+#urlForm {
+    padding: 3px;
+}
