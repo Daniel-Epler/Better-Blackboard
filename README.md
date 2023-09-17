@@ -1,6 +1,6 @@
 # Better-Blackboard
 
-Better Blackboard is a very simple Chrome Extension for the Blackboard website
+Better Blackboard is a very simple Chrome Extension for the Blackboard website (blackboard.com)
 
 ## Installation
 1. Download the "main" folder in this repo and save the folder somewhere you can find it
