@@ -3,13 +3,13 @@
 Better Blackboard is a very simple Chrome Extension for the Blackboard website
 
 ## Installation
-1. Download the main.crx file in this repo
-2. Go to chrome://extensions
-3. Click on the toggle developer mode button in the top right
+1. Download the "main" folder in this repo and save the folder somewhere you can find it
+3. Go to chrome://extensions
+4. Click on the toggle developer mode button in the top right
 <img src="/imgs/Screenshot 2023-09-15 092816.png" alt="Dev Mode Toggle">
-4. Click the "Load unpacked" button on the top left
+5. Click the "Load unpacked" button on the top left
 <img src="/imgs/Screenshot 2023-09-15 121109.png" alt="Load Unpacked">
-5. Locate your download of the "main" folder, and click "Select Folder"
+6. Locate your download of the "main" folder, and click "Select Folder"
 <img src="/imgs/Screenshot 2023-09-15 121346.png" alt="Dev Mode Toggle">
 
 ## Setup
