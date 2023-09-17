@@ -14,6 +14,8 @@ Better Blackboard is a very simple Chrome Extension for the Blackboard website (
 
 ## Setup
 
+(sorry for the bad setup process)
+
 1. Go into Blackboard and press <code>FN + F12</code> to open the inspect window on the right or bottom of your screen
 2. Click on "console" at the top of the new window which will take you to the console tab
 3. Copy the code below and paste it into the bottom of the console
