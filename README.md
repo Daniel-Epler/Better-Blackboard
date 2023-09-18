@@ -41,3 +41,4 @@ you can press the keys #1-9 to go to the class with that period, or you can just
 
 ## Contact me at depler@nastudents.org if you have questions or feature requests
 ## Feel free to have a peek at the source code in the "main" folder to see how it works (sorry if it's bad!)
+I would love to add new features, so if you want something just ask!
