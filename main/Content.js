@@ -11,10 +11,6 @@
 
 console.log(localStorage.getItem('class1'))
 
-
-
-
-
 let dt = new Date();
 
 let timeRanges = [
@@ -91,8 +87,8 @@ console.log(timeRanges);
 
 
 const Tutorial = `
-<strong class="directions">Press enter to go to the current class<br/>
-Press #1-8 for the corresponding class</strong>
+<strong class="directions">Press <code>enter</code> to go to the current class<br/>
+Press <code>#1-9</code> for the corresponding class</strong>
 `
 
 // Create element
