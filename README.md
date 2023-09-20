@@ -3,7 +3,8 @@
 Better Blackboard is a very simple Chrome Extension for the Blackboard website (blackboard.com)
 
 ## Installation
-1. Download the "main" folder in this repo and save the folder somewhere you can find it
+1. Download the <a href="https://github.com/Daniel-Epler/Better-Blackboard/releases/download/better/Better.Blackboard.V1.1.zip">main<a/> zip folder in this repo and save the folder somewhere you can find it
+2. Extract the files from the zip folder with right click > extract
 3. Go to chrome://extensions
 4. Click on the toggle developer mode button in the top right
 <img src="/imgs/Screenshot 2023-09-15 092816.png" alt="Dev Mode Toggle">
